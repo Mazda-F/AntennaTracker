@@ -8,8 +8,8 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "C:/Users/mazda/OneDrive/Desktop/Projects/AntennaTracker/AntennaTracker/include",
-                "C:/Users/mazda/OneDrive/Desktop/Projects/AntennaTracker/AntennaTracker/src",
+                "C:/Users/mazda/OneDrive/Desktop/Projects/AntennaTracker/include",
+                "C:/Users/mazda/OneDrive/Desktop/Projects/AntennaTracker/src",
                 "C:/Users/mazda/.platformio/packages/framework-arduinoteensy/cores/teensy4",
                 "C:/Users/mazda/.platformio/packages/framework-arduinoteensy/libraries/ADC",
                 "C:/Users/mazda/.platformio/packages/framework-arduinoteensy/libraries/AccelStepper/src",
@@ -115,8 +115,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "C:/Users/mazda/OneDrive/Desktop/Projects/AntennaTracker/AntennaTracker/include",
-                    "C:/Users/mazda/OneDrive/Desktop/Projects/AntennaTracker/AntennaTracker/src",
+                    "C:/Users/mazda/OneDrive/Desktop/Projects/AntennaTracker/include",
+                    "C:/Users/mazda/OneDrive/Desktop/Projects/AntennaTracker/src",
                     "C:/Users/mazda/.platformio/packages/framework-arduinoteensy/cores/teensy4",
                     "C:/Users/mazda/.platformio/packages/framework-arduinoteensy/libraries/ADC",
                     "C:/Users/mazda/.platformio/packages/framework-arduinoteensy/libraries/AccelStepper/src",
